@@ -1,0 +1,1 @@
+THis script is for creating single port group on multiple Dv switches present in multiple cluster
