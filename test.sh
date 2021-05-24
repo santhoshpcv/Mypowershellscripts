@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Enter Your Name"
-read name
+$name
 echo "Welcome $name to LinuxHint"
